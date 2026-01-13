@@ -9,14 +9,21 @@ This repository is created as part of my learning journey to understand:
 - Managing and knowing about repositories
 
 ## What this repo contains
-- Basic notes related to GitHub
-- Small practice files
-- Learning experiments as I explore programming concepts
+- Learning notes related to GitHub
+- Conceptual notes from for CSE subjects 
+- Small practice files from programming and DSA
 
-## Current Focus
+## Current Focus (3rd semester)
 - CSE fundamentals
-- Programming basics
-- Improving problem-solving skills
+- Object oriented programming (OOPS)
+- Data Structures & Algorithms
+- System Programming
+- Software Engineering
+
+##Programming languages 
+- C
+- C++
+- HTML & CSS (learning)
 
 ## Status
 Beginner | Learning step by step
